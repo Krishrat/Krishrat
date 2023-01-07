@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Krishna Gopal Rathi
-- 👀 I’m interested in DSA, Machine Learning
+- 👀 I’m interested in SDE roles as well as Data Scientist roles.
+- 👀I will be graduating in 2023 from VIT Chennai.
 - 🌱 I’m currently learning Web Development(React)
 
 <!---
